@@ -1,6 +1,6 @@
 # Introduction
 
-Below you can see my work from Google Code in `Reading and Writing CSV data - R Project for Statistical Computing`. I have described my code with comments
+Below you can see my work from Google Code in `Use the simple Cranlogs API to obtain half-yearly R package downloads summaries in 2018`. I have described my code with comments
 
 # Prerequisites
 
@@ -30,8 +30,6 @@ write.csv(stat_fullyear, "C:\\Users\\srish\\Desktop\\stat_fullyear.csv")
 
 ```
 
-# Screen Record
-![Screen Recording]()
 
 # Authors
 - Srishti Jain
